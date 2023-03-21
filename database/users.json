@@ -1,32 +1,32 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "name": "Dwij Bhanderi",
         "photo": "https://randomuser.me/api/portraits/men/22.jpg",
-        "chatRoomId": [1, 2, 3, 4, 5]
+        "chatRoomId": ["1", "2", "3", "4", "5"]
       },
       {
-        "id": 2,
+        "id": "2",
         "name": "Dhairya Rupala",
         "photo": "https://randomuser.me/api/portraits/men/1.jpg",
-        "chatRoomId": [1,2,3,4]
+        "chatRoomId": ["1","2","3","4"]
       },
       {
-        "id": 3,
+        "id": "3",
         "name": "Neel Patel",
         "photo": "https://randomuser.me/api/portraits/men/2.jpg",
-        "chatRoomId": [3]
+        "chatRoomId": ["3"]
       },
       {
-        "id": 4,
+        "id": "4",
         "name": "Heet Mistry",
         "photo": "https://randomuser.me/api/portraits/men/3.jpg",
-        "chatRoomId": [4]
+        "chatRoomId": ["4"]
       },
       {
-        "id": 5,
+        "id": "5",
         "name": "Jay Patel",
         "photo": "https://randomuser.me/api/portraits/men/4.jpg",
-        "chatRoomId": [5]
+        "chatRoomId": ["5"]
       }
     ]

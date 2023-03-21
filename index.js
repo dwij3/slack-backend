@@ -30,7 +30,7 @@ app.get("/getCurrentUserInfo/:id", (req, res) => {
   });
 
   if (currentUser) res.send(currentUser);
-  // res.send(new Error("User not found"));
+  res.send(new Error("User not found"));
 });
 
 //fetch details for teamMates

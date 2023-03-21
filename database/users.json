@@ -15,18 +15,18 @@
         "id": "3",
         "name": "Neel Patel",
         "photo": "https://randomuser.me/api/portraits/men/2.jpg",
-        "chatRoomId": ["3"]
+        "chatRoomId": ["1,3"]
       },
       {
         "id": "4",
         "name": "Heet Mistry",
         "photo": "https://randomuser.me/api/portraits/men/3.jpg",
-        "chatRoomId": ["4"]
+        "chatRoomId": ["1,4"]
       },
       {
         "id": "5",
         "name": "Jay Patel",
         "photo": "https://randomuser.me/api/portraits/men/4.jpg",
-        "chatRoomId": ["5"]
+        "chatRoomId": ["1,5"]
       }
     ]
